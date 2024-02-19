@@ -1,0 +1,215 @@
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 1; ]
+import Toybox.Lang;
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 2; ]
+using Toybox.WatchUi;
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 3; ]
+using Toybox.WatchUi as :Ui;
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 4; ]
+using Toybox.Graphics;
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 5; ]
+using Toybox.Graphics as :Gfx;
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 7; ]
+module Rez {
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 7; ]
+    <init> {
+    }
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 8; ]
+    module Drawables {
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 8; ]
+        <init> {
+        }
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 9; @position = 27; initialized = true; ]
+        var LauncherIcon as Symbol;
+    }
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 12; ]
+    module Fonts {
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 12; ]
+        <init> {
+        }
+    }
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 15; ]
+    module JsonData {
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 15; ]
+        <init> {
+        }
+    }
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 18; ]
+    module Layouts {
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 18; ]
+        <init> {
+        }
+    }
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 21; ]
+    module Menus {
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 21; ]
+        <init> {
+        }
+    }
+    [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 24; ]
+    module Strings {
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 24; ]
+        <init> {
+        }
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 25; @position = 27; initialized = true; ]
+        var DefaultPZ as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 26; @position = 27; initialized = true; ]
+        var modeNP_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 27; @position = 27; initialized = true; ]
+        var colorPurple as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 28; @position = 27; initialized = true; ]
+        var lbBASE as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 29; @position = 27; initialized = true; ]
+        var labelAvg as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 30; @position = 27; initialized = true; ]
+        var themeZones as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 31; @position = 27; initialized = true; ]
+        var threshold as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 32; @position = 27; initialized = true; ]
+        var lbRECV as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 33; @position = 27; initialized = true; ]
+        var modeAvg as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 34; @position = 27; initialized = true; ]
+        var themeRed as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 35; @position = 27; initialized = true; ]
+        var mode10s as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 36; @position = 27; initialized = true; ]
+        var mode30s as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 37; @position = 27; initialized = true; ]
+        var themeTitle as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 38; @position = 27; initialized = true; ]
+        var powerMode as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 39; @position = 27; initialized = true; ]
+        var PowerZoneBar_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 40; @position = 27; initialized = true; ]
+        var Zone3maxValue_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 41; @position = 27; initialized = true; ]
+        var averageMode as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 42; @position = 27; initialized = true; ]
+        var lbNA as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 43; @position = 27; initialized = true; ]
+        var AppVersionTitle as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 44; @position = 27; initialized = true; ]
+        var lbSST as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 45; @position = 27; initialized = true; ]
+        var modeAverage as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 46; @position = 27; initialized = true; ]
+        var FTP_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 47; @position = 27; initialized = true; ]
+        var themeNone as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 48; @position = 27; initialized = true; ]
+        var colorHigh as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 49; @position = 27; initialized = true; ]
+        var lbBAL as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 50; @position = 27; initialized = true; ]
+        var StagesPZ as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 51; @position = 27; initialized = true; ]
+        var colorRed as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 52; @position = 27; initialized = true; ]
+        var Zone1maxValue_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 53; @position = 27; initialized = true; ]
+        var Zone2maxValue_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 54; @position = 27; initialized = true; ]
+        var lbHIIT as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 55; @position = 27; initialized = true; ]
+        var modeLarge as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 56; @position = 27; initialized = true; ]
+        var Zone6maxValue_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 57; @position = 27; initialized = true; ]
+        var fontSize as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 58; @position = 27; initialized = true; ]
+        var lbRPT as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 59; @position = 27; initialized = true; ]
+        var Zone5maxValue_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 60; @position = 27; initialized = true; ]
+        var modePersonal as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 61; @position = 27; initialized = true; ]
+        var modeAvgNP_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 62; @position = 27; initialized = true; ]
+        var colorYellow as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 63; @position = 27; initialized = true; ]
+        var calcPowerZone_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 64; @position = 27; initialized = true; ]
+        var PowerZoneHistory_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 65; @position = 27; initialized = true; ]
+        var mode3s as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 66; @position = 27; initialized = true; ]
+        var colorDefault as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 67; @position = 27; initialized = true; ]
+        var ShowTraining_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 68; @position = 27; initialized = true; ]
+        var title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 69; @position = 27; initialized = true; ]
+        var themeRedInvert as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 70; @position = 27; initialized = true; ]
+        var AppName as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 71; @position = 27; initialized = true; ]
+        var modeLapNP_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 72; @position = 27; initialized = true; ]
+        var modeLapNP as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 73; @position = 27; initialized = true; ]
+        var lbVO2MAX as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 74; @position = 27; initialized = true; ]
+        var lbHVLI as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 75; @position = 27; initialized = true; ]
+        var modeAvg_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 76; @position = 27; initialized = true; ]
+        var manualPowerZone_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 77; @position = 27; initialized = true; ]
+        var colorBlue as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 78; @position = 27; initialized = true; ]
+        var modeLap as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 79; @position = 27; initialized = true; ]
+        var lbTEMPO as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 80; @position = 27; initialized = true; ]
+        var lbPRMD as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 81; @position = 27; initialized = true; ]
+        var calcTypePZ_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 82; @position = 27; initialized = true; ]
+        var modeMax as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 83; @position = 27; initialized = true; ]
+        var colorOrange as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 84; @position = 27; initialized = true; ]
+        var modeAvgMax as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 85; @position = 27; initialized = true; ]
+        var modeAvgMax_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 86; @position = 27; initialized = true; ]
+        var averageSec as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 87; @position = 27; initialized = true; ]
+        var modeAvgNP as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 88; @position = 27; initialized = true; ]
+        var lbPOL as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 89; @position = 27; initialized = true; ]
+        var colorPink as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 90; @position = 27; initialized = true; ]
+        var personalPower as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 91; @position = 27; initialized = true; ]
+        var colorGray as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 92; @position = 27; initialized = true; ]
+        var labelPersonal as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 93; @position = 27; initialized = true; ]
+        var colorGreen as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 94; @position = 27; initialized = true; ]
+        var modeNP as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 95; @position = 27; initialized = true; ]
+        var metric as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 96; @position = 27; initialized = true; ]
+        var colorLow as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 97; @position = 27; initialized = true; ]
+        var modeSmall as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 98; @position = 27; initialized = true; ]
+        var modeNone as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 99; @position = 27; initialized = true; ]
+        var powerZoneColor_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 100; @position = 27; initialized = true; ]
+        var modeMax_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 101; @position = 27; initialized = true; ]
+        var Zone4maxValue_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 102; @position = 27; initialized = true; ]
+        var modeLap_title as Symbol;
+        [ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 103; @position = 27; initialized = true; ]
+        var lbSPT as Symbol;
+    }
+}
+[ @file = "C:\Users\USER\OneDrive\자전거\New CIQ\BRM Power+\bin\gen\006-B3812-00\source\Rez.mcgen"; @line = 1; ]
+<init> {
+}

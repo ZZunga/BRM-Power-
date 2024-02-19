@@ -1,0 +1,105 @@
+import Toybox.Lang;
+using Toybox.WatchUi;
+using Toybox.WatchUi as Ui;
+using Toybox.Graphics;
+using Toybox.Graphics as Gfx;
+
+module Rez {
+    module Drawables {
+        (:initialized) var LauncherIcon as Symbol;
+    } // Drawables
+
+    module Fonts {
+    } // Fonts
+
+    module JsonData {
+    } // JsonData
+
+    module Layouts {
+    } // Layouts
+
+    module Menus {
+    } // Menus
+
+    module Strings {
+        (:initialized) var DefaultPZ as Symbol;
+        (:initialized) var modeNP_title as Symbol;
+        (:initialized) var colorPurple as Symbol;
+        (:initialized) var lbBASE as Symbol;
+        (:initialized) var labelAvg as Symbol;
+        (:initialized) var themeZones as Symbol;
+        (:initialized) var threshold as Symbol;
+        (:initialized) var lbRECV as Symbol;
+        (:initialized) var modeAvg as Symbol;
+        (:initialized) var themeRed as Symbol;
+        (:initialized) var mode10s as Symbol;
+        (:initialized) var mode30s as Symbol;
+        (:initialized) var themeTitle as Symbol;
+        (:initialized) var powerMode as Symbol;
+        (:initialized) var PowerZoneBar_title as Symbol;
+        (:initialized) var Zone3maxValue_title as Symbol;
+        (:initialized) var averageMode as Symbol;
+        (:initialized) var lbNA as Symbol;
+        (:initialized) var AppVersionTitle as Symbol;
+        (:initialized) var lbSST as Symbol;
+        (:initialized) var modeAverage as Symbol;
+        (:initialized) var FTP_title as Symbol;
+        (:initialized) var themeNone as Symbol;
+        (:initialized) var colorHigh as Symbol;
+        (:initialized) var lbBAL as Symbol;
+        (:initialized) var StagesPZ as Symbol;
+        (:initialized) var colorRed as Symbol;
+        (:initialized) var Zone1maxValue_title as Symbol;
+        (:initialized) var Zone2maxValue_title as Symbol;
+        (:initialized) var lbHIIT as Symbol;
+        (:initialized) var modeLarge as Symbol;
+        (:initialized) var Zone6maxValue_title as Symbol;
+        (:initialized) var fontSize as Symbol;
+        (:initialized) var lbRPT as Symbol;
+        (:initialized) var Zone5maxValue_title as Symbol;
+        (:initialized) var modePersonal as Symbol;
+        (:initialized) var modeAvgNP_title as Symbol;
+        (:initialized) var colorYellow as Symbol;
+        (:initialized) var calcPowerZone_title as Symbol;
+        (:initialized) var PowerZoneHistory_title as Symbol;
+        (:initialized) var mode3s as Symbol;
+        (:initialized) var colorDefault as Symbol;
+        (:initialized) var ShowTraining_title as Symbol;
+        (:initialized) var title as Symbol;
+        (:initialized) var themeRedInvert as Symbol;
+        (:initialized) var AppName as Symbol;
+        (:initialized) var modeLapNP_title as Symbol;
+        (:initialized) var modeLapNP as Symbol;
+        (:initialized) var lbVO2MAX as Symbol;
+        (:initialized) var lbHVLI as Symbol;
+        (:initialized) var modeAvg_title as Symbol;
+        (:initialized) var manualPowerZone_title as Symbol;
+        (:initialized) var colorBlue as Symbol;
+        (:initialized) var modeLap as Symbol;
+        (:initialized) var lbTEMPO as Symbol;
+        (:initialized) var lbPRMD as Symbol;
+        (:initialized) var calcTypePZ_title as Symbol;
+        (:initialized) var modeMax as Symbol;
+        (:initialized) var colorOrange as Symbol;
+        (:initialized) var modeAvgMax as Symbol;
+        (:initialized) var modeAvgMax_title as Symbol;
+        (:initialized) var averageSec as Symbol;
+        (:initialized) var modeAvgNP as Symbol;
+        (:initialized) var lbPOL as Symbol;
+        (:initialized) var colorPink as Symbol;
+        (:initialized) var personalPower as Symbol;
+        (:initialized) var colorGray as Symbol;
+        (:initialized) var labelPersonal as Symbol;
+        (:initialized) var colorGreen as Symbol;
+        (:initialized) var modeNP as Symbol;
+        (:initialized) var metric as Symbol;
+        (:initialized) var colorLow as Symbol;
+        (:initialized) var modeSmall as Symbol;
+        (:initialized) var modeNone as Symbol;
+        (:initialized) var powerZoneColor_title as Symbol;
+        (:initialized) var modeMax_title as Symbol;
+        (:initialized) var Zone4maxValue_title as Symbol;
+        (:initialized) var modeLap_title as Symbol;
+        (:initialized) var lbSPT as Symbol;
+    } // Strings
+} // Rez
